@@ -25,3 +25,5 @@ ro.nfc.sec_hal=true
 # this affects lock screen ColorFader and ensures release of /dev/pvrsrvkm GPU ressources
 ro.egl.destroy_after_detach=true
 
+# Vendor security patch level
+ro.lineage.build.vendor_security_patch=2017-08-01
